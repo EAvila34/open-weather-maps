@@ -1,10 +1,12 @@
 # open-weather-maps
-nodejs app to get weather information
+<b>nodejs app to get weather information</b>
 
-Consumo de APIs
-Llamadas HTTP hacia servidores externos
-Paquete request - superficialmente
-Paquete Axios
-Mapbox places para obtener lugares por nombre
-Uso de OpenWeather para obtener el clima
-Aplicación de consola con historial
+<ul>
+  <li>Consumo de APIs</li>
+  <li>Llamadas HTTP hacia servidores externos</li>
+  <li>Paquete request - superficialmente</li>
+  <li>Paquete Axios</li>
+  <li>Mapbox places para obtener lugares por nombre</li>
+  <li>Uso de OpenWeather para obtener el clima</li>
+  <li>Aplicación de consola con historial</li>
+</ul>
