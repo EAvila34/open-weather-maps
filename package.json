@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/EAvila34/open-weather-maps#readme",
   "dependencies": {
+    "axios": "^0.21.1",
     "colors": "^1.4.0",
     "inquirer": "^8.1.2"
   }
